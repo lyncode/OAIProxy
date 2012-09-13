@@ -2,7 +2,7 @@
 
 ### What is OAI Proxy?
 
-OAI Proxy, is a standalone service that allows one to harvest multiple OAI-PMH data providers, offering an OAI interface that exposes the harvested records.
+OAI Proxy is a standalone service that allows one to harvest multiple OAI-PMH data providers, offering an OAI interface that exposes those harvested records.
 
 - Easy to use and install
 - Fast, it indexes all the information

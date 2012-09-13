@@ -15,8 +15,9 @@ OAI Proxy, is a standalone service that allows one to harvest multiple OAI-PMH d
 - (Optional) Edit configurations at [UNPACKED_OAIPROXY_DIR]/config/proxy.cfg 
 - Open the terminal and execute:
 
-> $ cd [UNPACKED_OAIPROXY_DIR]
-> $ sudo java -jar oai-proxy.jar
+``$ cd [UNPACKED_OAIPROXY_DIR]``
+
+``$ sudo java -jar oai-proxy.jar``
 
 ### OAI Proxy in Action
 

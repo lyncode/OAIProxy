@@ -12,7 +12,7 @@ OAI Proxy is a standalone service that allows one to harvest multiple OAI-PMH da
 ### Manual (UNIX)
 
 - Download the ZIP file, unpack it.
-- (Optional) Edit configurations at [UNPACKED_OAIPROXY_DIR]/config/proxy.cfg 
+- (Optional) Edit configurations at ``[UNPACKED_OAIPROXY_DIR]/config/proxy.cfg``
 - Open the terminal and execute:
 
 ``$ cd [UNPACKED_OAIPROXY_DIR]``

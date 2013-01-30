@@ -33,7 +33,7 @@ NOTE: By default OAI Proxy will use port 80.
 
 Copyright 2012 Lyncode
 
-![Developed by Lybcode](http://www.lyncode.com/images/lyncode/logoCor.png)
+![Developed by Lybcode](http://www.lyncode.com/bundles/lyncodesite/images/logoCor.png)
 
 Licensed under the Apache License, Version 2.0 (the "License") you may not use this file except in compliance with the License.
 You may obtain a copy of the License at 

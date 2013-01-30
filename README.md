@@ -35,4 +35,4 @@ OAIProxy was developed and is currently maintained by [Lyncode](http://www.lynco
 All resources used on this site are released under their respective licenses by the authors credited in this page.
 The OAIProxy components are distributed using the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
-![Developed by Lybcode](http://www.lyncode.com/bundles/lyncodesite/images/logoCor.png)
+![Developed by Lybcode](http://www.lyncode.com/images/lyncode/logo.png)
